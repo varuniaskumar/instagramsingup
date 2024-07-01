@@ -1,0 +1,125 @@
+.main{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:80%;
+    margin-top:2%;
+}
+.content{
+    display:flex;
+    flex-direction: row;
+    gap:56px;
+}
+.left{
+    width:auto;
+    margin-left:10%;
+}
+.picture{
+    margin-left:14%;
+}
+.insidepicture{
+    margin-left: 39%;
+    margin-top: -154%;
+}
+.right{
+    display: block;
+    width: 28%;
+    height: 400px;
+    padding: 10px;
+    border: 1px solid gray;
+    margin-top: 1%;
+    border-radius: 4px;
+}
+.instagramimage{
+    margin-top:16px;
+    width:200px;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 16px;
+}
+.mail{
+    width: 144%;
+    height: 10%;
+    margin-left:-27%;
+    padding: 10px;
+    margin-bottom: 9px;
+}
+.login{
+    width: 156%;
+    height: 10%;
+    margin-top: 10px;
+    margin-left: -53px;
+    background-color: #0064e0;
+    color: #fff;
+    border-radius: 6px;
+    padding: 8px;
+    opacity:0.8;
+
+}
+.or{
+    text-align: center;
+}
+.lineparent{
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+}
+.line1{
+    width: 170px;
+    margin-left: -27%;
+    margin-top: -16%;
+}
+.line2{
+    width:170px;
+    margin-left:10%;
+    margin-top:-13%;
+
+}
+.fbparent{
+    display: flex;
+    gap:20px;
+}
+.fb{
+    width:50px;
+    height:50px;
+}
+.fblogin{
+    color: #0064e0;
+}
+.forgot{
+    text-align: center;
+}
+.bottomborder{
+    display:flex;
+    flex-direction: row;
+    width: 100%;
+    height: 32px;
+    padding: 10px;
+    border: 1px solid gray;
+    margin-top: 10%;
+    border-radius: 4px;
+    margin-left: -3%;
+}
+.account{
+    margin-top: 2%;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+.up{
+    margin-right: 30%;
+    text-decoration: none;
+    margin-top: 2%;
+}
+.gettheapp{
+    margin-top: 4%;
+    margin-left: 39%;
+}
+.imageparent{
+    display: flex;
+    gap: 10px;
+    margin-top: 3%;
+    width: 150px;
+    height: 40px;
+    margin-left: 6%
+}
